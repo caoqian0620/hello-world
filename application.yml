@@ -1,0 +1,8 @@
+server:
+  port: 1234
+
+spring:
+  application:
+    name: 1234 
+
+version: 1
