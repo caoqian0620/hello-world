@@ -5,4 +5,4 @@ spring:
   application:
     name: 1234 
 
-version: 1
+version: 2
